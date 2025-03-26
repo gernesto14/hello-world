@@ -18,3 +18,4 @@ EXPOSE 3000
 
 # Command to run the application using nodemon
 CMD ["npm", "start"]
+
